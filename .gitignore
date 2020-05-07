@@ -1,0 +1,5 @@
+# Ignore database files
+dates.txt
+player_data.txt
+raw_data.txt
+results.png
